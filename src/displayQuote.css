@@ -1,0 +1,7 @@
+.displayQuote{
+    height: 75vh;
+}
+
+.displayQuote > img{
+    height: 70%;
+}
